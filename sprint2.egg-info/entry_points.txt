@@ -1,0 +1,5 @@
+[console_scripts]
+MaskAGref = MaskAGref:main
+getDsRNA = getDsRNA:run
+getRES = getRES:run
+

@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: sprint2
+Version: 0.1
+Summary: SPRINT-2.0: An enhanced tool to identify RNA editing sites
+Home-page: https://github.com/xieyunxiao/SPRINT2
+Author: Feng Zhang, Yunxiao Xie
+Author-email: 20210700107@fudan.edu.cn
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+
+UNKNOWN
+
