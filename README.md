@@ -7,9 +7,9 @@ SPRINT2 is an enhanced version for SPRINT to detect RNA editing sites from RNA-s
 
 ## 1. Old version.
 
-**Binary sources and details at** https://github.com/jumphone/SPRINT/
+**Binary sources and details at:** https://github.com/jumphone/SPRINT/
 
-**Publication** https://doi.org/10.1093/bioinformatics/btx473
+**Publication:** https://doi.org/10.1093/bioinformatics/btx473
 
 
 ## 2. Installation.
