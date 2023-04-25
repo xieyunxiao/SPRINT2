@@ -173,7 +173,7 @@ getLowComplexity.py repeat.bed Low_complexity.txt
 ```
 Note that the sequence databases downloaded in the above steps are protected by copyright and require a license to use. Also, the above code is for reference only and the actual operation steps may vary depending on the situation.
 
-## 7.Input data files
+## 7.Input data files.
  - reference.fa: Reference genome FASTA file.
  - annotation.gtf: Gene annotation GTF file.
  - transcript.bed: Transcripts BED file (Optional file).
@@ -199,7 +199,7 @@ ____________________________________________________
  - bedtools: Path to BEDTOOLS.
  - samtools: Path to SAMTOOLS.
 
-## 8.Output files
+## 8.Output files.
  - reference_mskAG.fa: Mask A with G on reference FASTA file.
  - dsRNA_file/: Candidate double-stranded RNA.
  - 1_SNV_calling/: SNV files.
@@ -215,7 +215,7 @@ __________________________________________________________________________
 | Chrom | Start(0-base) | End(1-base) |  Type | Supporting_reads | Depth |
 __________________________________________________________________________
 ```
-## 9.License
+## 9.License.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
